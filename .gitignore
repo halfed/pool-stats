@@ -24,4 +24,4 @@ yarn-error.log*
 
 #Composer Directory
 /vendor
-/cgi-bin/DBSettings.php
+/cgi-bin/DBSettings.php	
