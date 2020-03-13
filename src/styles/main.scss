@@ -1,0 +1,12 @@
+@import 'settings';
+@import '~foundation-sites/scss/foundation';
+@include foundation-everything;
+
+label {
+	text-align: left;
+}
+
+.form-error {
+	display: inline-block;
+	margin-bottom: 0;
+}
