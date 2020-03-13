@@ -2,6 +2,8 @@
 node_modules
 /dist
 business-assets/
+public/
+cgi-bin/DBSettings.php
 
 # local env files
 .env.local
@@ -24,4 +26,3 @@ yarn-error.log*
 
 #Composer Directory
 /vendor
-/cgi-bin/DBSettings.php	
