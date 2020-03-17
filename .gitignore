@@ -2,7 +2,7 @@
 node_modules
 /dist
 business-assets/
-public/
+# public/
 cgi-bin/DBSettings.php
 
 # local env files
