@@ -1,4 +1,4 @@
-# connect-four
+# Pool-Stats
 
 ## Project setup
 ```
